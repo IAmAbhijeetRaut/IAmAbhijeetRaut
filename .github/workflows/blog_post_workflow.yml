@@ -1,7 +1,7 @@
 name: Medium Blog Posts
 on:
   schedule:
-    - cron: '0 * * * *'
+   - cron: '30 5,17 * * *'
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
   
 jobs:
@@ -9,7 +9,7 @@ jobs:
     name: Latest Posts From Medium
     runs-on: ubuntu-latest
     steps:
-        uses: actions/checkout@v3
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
+     - uses: actions/checkout@v3
+     - uses: gautamkrishnar/blog-post-workflow@v1
+       with:
           feed_list: "https://medium.com/@abhijeet00900"
