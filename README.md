@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamabhijeetraut&label=Profile%20views&color=0e75b6&style=flat" alt="iamabhijeetraut" /> </p>
 
-- 🌱 I’m currently learning **JavaScript ,React, Nodejs**
+ - 🌱 I’m currently learning **JavaScript ,React, Nodejs**
 
-- 📝 I regularly write articles on [https://medium.com/@abhijeet00900](https://medium.com/@abhijeet00900)
+ - 📝 I regularly write articles on [https://medium.com/@abhijeet00900](https://medium.com/@abhijeet00900)
 
-- 💬 Ask me about **Spring Boot, Java, JavaScript, Nodejs, Reactjs**
+ - 💬 Ask me about **Spring Boot, Java, JavaScript, Nodejs, Reactjs**
 
-- 💡 I understand the importance of writing clean, maintainable, and well-documented code, and I strive to make an impact through my work.
+ - 💡 I understand the importance of writing clean, maintainable, and well-documented code, and I strive to make an impact through my work.
 
-- 📚 I'm a fast learner, and I continuously educate myself to stay ahead of the curve in the rapidly evolving tech industry.
+ - 📚 I'm a fast learner, and I continuously educate myself to stay ahead of the curve in the rapidly evolving tech industry.
 
 - 💼 Currently I am looking for an opportunity to prove my worth as a Java Backend Developer.
 
