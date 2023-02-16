@@ -1,0 +1,14 @@
+name: Medium Blog Posts
+on:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  Medium-Blog:
+    name: Latest Posts From Medium
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name : "Medium-Blog-Posts"
+          feed_list: "https://medium.com/@abhijeet00900"
