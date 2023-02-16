@@ -19,7 +19,7 @@
 
 - 💼 Feel free to share my profile with your network, I am always open to new opportunities in Java Backend Development.
 
-- 📫 How to reach me **abhijeet00900@gmail.com**
+- 📫 How to reach me **click on the below LinkedIn Icon**
 
 - ⚡ Fun fact **I am a Tech Geek, Trek Geek & a Photography Mistique**
 
