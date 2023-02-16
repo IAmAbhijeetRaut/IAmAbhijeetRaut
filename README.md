@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am a Tech Geek, Trek Geek & a Photography Mistique**
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png">
+<img align="right" alt="Coding" width="150" height="150" src="https://miro.medium.com/max/1400/1*psYl0y9DUzZWtHzFJLIvTw.png">
 ### Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
