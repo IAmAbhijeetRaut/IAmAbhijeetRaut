@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I am a Tech Geek, Trek Geek & a Photography Mistique**
 
-### Blogs posts
+### Medium Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
