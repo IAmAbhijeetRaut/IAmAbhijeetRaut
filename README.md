@@ -25,7 +25,6 @@
 
 
 ### Medium Blog Posts
-<embed type="text/html" src="https://medium.com/@abhijeet00900" width="500" height="200">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
